@@ -1,1 +1,1 @@
-# FAT
+# Heterogeneous Adversaries for FAT
